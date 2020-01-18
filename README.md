@@ -1,22 +1,7 @@
-# vue-cli
+# Final Project
 
-> A Vue.js project
+This is the final project in the "Vue 2 - Complete Guide" course on Udemy by Maximillian S.  You can find a running demo on Codesandbox [here](https://codesandbox.io/s/github/jamiemccarville/udemy-vue2-final-project)
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-##Codesanbox
+## Codesanbox
 
 If viewing the project with Codesandbox, open in a new window to see the whole nav bar
